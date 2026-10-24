@@ -20,6 +20,7 @@ Your videos stay on your computer.
 - Fullscreen playback with controls that hide automatically.
 - Audio selection and adjustable panel sizes.
 
+Hover over the timeline to see time from the start.
 The remaining-time display uses the shorter recording in two-video mode.
 Playback stops when either recording finishes.
 Choose your files again after reopening the page.
@@ -28,7 +29,8 @@ Choose your files again after reopening the page.
 
 | Shortcut | Action |
 | --- | --- |
-| Space | Play or pause |
+| Click a video or press Space | Play or pause |
+| Option + Shift | Toggle fullscreen |
 | Left or Right Arrow | Seek backward or forward ten seconds |
 | Option + Left or Right Arrow | Decrease or increase playback speed |
 | Shift + Left Arrow | Expand the left panel to 75% |
